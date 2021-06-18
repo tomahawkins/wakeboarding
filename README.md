@@ -28,6 +28,7 @@ the wind is low, and the weather is good.
     - If you get too close to shore, let go of the rope.
     - If you get caught deep inside the wake on a turn, let go of the rope.
     - Stay clear of the motor while it's running.
+    - If you are riding spotter in the boat, keep your eyes on the skier.
     - If you see something unsafe, speak out!
 
 
