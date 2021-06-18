@@ -27,6 +27,8 @@ the wind is low, and the weather is good.
     - When in doubt, let go of the rope.
     - If you get too close to shore, let go of the rope.
     - If you get caught deep inside the wake on a turn, let go of the rope.
+    - Stay clear of the motor while it's running.
+    - If you see something unsafe, speak out!
 
 
 **Signals:**
