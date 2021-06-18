@@ -1,4 +1,4 @@
-# EMWWA: Edge More Wakeboarding and Waterski Association
+# EMWWA: Edge More Wakeboard and Waterski Association
 
 Yay!  Summer 2021!  Boat is running and ready to go!
 
@@ -21,8 +21,8 @@ the wind is low, and the weather is good.
 
 - Only one person on the descent rope at a time.
 - No horseplay with the raft ladder.  Please leave it in the water.
-- Beware of barnacles.  They cut!  Use extra caution when swimming near the shore or the raft.
-- Careful on the beach.  There is glass and thorns of every type.
+- Beware of barnacles.  They cut!  Use extra caution when swimming near shore.
+- Be careful on the beach.  There is glass and thorns of every type.
 - While wakeboarding:
     - When in doubt, let go of the rope.
     - If you get too close to shore, let go of the rope.
@@ -35,7 +35,7 @@ the wind is low, and the weather is good.
 
 - Thumbs up: Go faster.
 - Thumbs down: Go slower.
-- Pointing at the raft: I'm done for now.
+- Point at the raft: I'm done for now.
 
 
 **Daily Procedure:**
